@@ -10,7 +10,7 @@ Validation and test sets (audio, transcripts, summaries): available now
 Training set: released upon paper acceptance
 Code: released after cleanup
 
-Download link::
+Download link:
 - [Google Drive](https://drive.google.com/drive/folders/1qN1hR2wfD_oGdh6fzFG-o9IGjewrahz6?usp=sharing)
 
 
